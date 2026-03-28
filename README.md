@@ -4,6 +4,9 @@ A fully working bloat-free app blocker for Windows written with pure C++ and...n
 
 
 
+**Note:** It uses a custom font named 'Outfit'. I highly recommend you to install the font, otherwise the UI will look like it was written in the '90s.
+
+
 **How to use:**
 
 -Go to Start
@@ -26,6 +29,7 @@ A fully working bloat-free app blocker for Windows written with pure C++ and...n
 
 
 
+
 **Features:**
 
 -No background services needed. (Doesn't steal your data)
@@ -35,3 +39,6 @@ A fully working bloat-free app blocker for Windows written with pure C++ and...n
 -You'll have to directly select the launching exe of that specific app.
 
 
+
+**Known Issues:**
+-UI glitches while resizing, updating and redrawing.
