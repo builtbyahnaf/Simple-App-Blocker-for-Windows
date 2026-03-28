@@ -31,7 +31,7 @@ Simple App Blocker for Windows
 Version 3.42
 
 Used: pure C++
-Author: Muhammad Tahmid Ahnaf + ChatGPT
+Author: Muhammad Tahmid Ahnaf
 
 */
 
