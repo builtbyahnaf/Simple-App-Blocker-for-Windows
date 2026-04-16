@@ -40,8 +40,3 @@ A fully working bloat-free app blocker for Windows written with pure C++ and...n
 **Known Issues:**
 - UI glitches while resizing
 - The block data isn't protected, so there's a risk of manually editing the file to cheat. (Don't do that to stay loyal)
-
-
-
-**Known Issues:**
--UI glitches while resizing, updating and redrawing.
