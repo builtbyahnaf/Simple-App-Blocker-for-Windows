@@ -400,7 +400,8 @@ COLORREF fg = isSystemDarkMode() ? RGB(220,220,220) : RGB(0,0,0);
 
         case WM_CREATE:
         {
-            HFONT font = LoadCustomFont("Outfit", 18);
+            HFONT font = LoadCustomFont("Calibri", 18);
+            /* I used Calibri here so that it doesn't break on computers. If you can, download a modern font and use it here. */
 
             
         chooseButton = CreateWindowA("BUTTON","Choose EXE",WS_VISIBLE|WS_CHILD|BS_OWNERDRAW,
